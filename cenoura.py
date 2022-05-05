@@ -1,1 +1,1 @@
-Cenoura
+print('Cenoura')
