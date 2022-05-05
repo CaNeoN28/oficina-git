@@ -1,2 +1,1 @@
-Rabanete
-Sopa de rabanete
+print('Rabanete')
