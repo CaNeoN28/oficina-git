@@ -1,1 +1,1 @@
-Beterraba
+print('Beterraba')
